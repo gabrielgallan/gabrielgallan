@@ -1,23 +1,52 @@
-### Sou o Gabriel Gallan. Bem-vindo
+## Sou o Gabriel Gallan. Bem-vindo
 ## 👨‍💻 Sobre Mim
-Estudante de tecnologia da informação, focado em desenvolver aplicações web eficientes, aplicando conceitos para construir soluções escaláveis, robustas e seguras. Conhecimento sólido em lógica limpa com JavaScript e fundamentos Node.js, utilizando bibliotecas como **Express/Fastify**, **Zod**,**TypeScript**, **Knex** e **SQLite**. 
+Estudante de tecnologia da informação, focado em desenvolver aplicações web eficientes, aplicando conceitos para construir soluções escaláveis, robustas e seguras. Conhecimento sólido em código limpo com **JavaScript** e fundamentos **Node.js**, utilizando bibliotecas como **Express/Fastify**, **Zod**, **TypeScript** e **Knex** para desenvolvimento backend, e **HTML**,**CSS**,**BootStrap** para frontend. Sigo aprimorando com essas ferramentas e estudando **React.js** para melhorar na estruturação do front. 
 
-Sigo aprofundando estas habilidades e iniciando em **Raect.js** para frontend. Noção de Sistemas Operacionais(**Windows** e **Linux**) e Pacote Office.
+Á procura de ingressar no mercado de TI, me desenvolver profissionalmente e aprimorar habilidades técnicas, análiticas e interpessoais. 
 
 ---
 
-## 🎓 Educação
-Análise e Desenvolvimento de Sistemas(USJT)
+### 🎓 Educação
+- Análise e Desenvolvimento de Sistemas (USJT)
 
-## 🔗 Conexão
+### 🔗 Conexão
 - **Linkedin:** [linkedin.com/in/gabrielgallan](https://www.linkedin.com/in/gabrielgallan/)
-- **E-mail:** [gabriel31.gal@gmail.com][mailto:gabriel31.gal@gmail.com]
+- **E-mail:** [gabriel31.gal@gmail.com](mailto:gabriel31.gal@gmail.com)
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
+### ⚙️ Tecnologias e Ferramentas
+- ### Backend
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" width="40"/>
+</div>
+
+- ### Frontend
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+</div>
+
+- ### Banco de Dados
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>          
+</div>
+
+- ### Sistemas Operacionais
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40"/>
+</div>
+
+          
+          
+          
+          
+          
           
