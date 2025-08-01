@@ -2,9 +2,9 @@
 ## 👨‍💻 Sobre Mim
 Estudante de tecnologia da informação, focado em desenvolver aplicações web eficientes, aplicando conceitos para construir soluções escaláveis, robustas e seguras. Conhecimento sólido em código limpo com **JavaScript** e fundamentos **Node.js**, utilizando bibliotecas como **Express/Fastify**, **Zod**, **TypeScript** e **Knex** para desenvolvimento backend, e **HTML**,**CSS**,**BootStrap** para frontend. Sigo aprimorando com essas ferramentas e estudando **React.js** para melhorar na estruturação do front. 
 
-Á procura de ingressar no mercado de TI, me desenvolver profissionalmente e aprimorar habilidades técnicas, análiticas e interpessoais. 
-
 ---
+### 💻 Carreira
+- Estagiário de Engenharia
 
 ### 🎓 Educação
 - Análise e Desenvolvimento de Sistemas (USJT)
@@ -35,13 +35,6 @@ Estudante de tecnologia da informação, focado em desenvolver aplicações web 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>          
-</div>
-
-- ### Sistemas Operacionais
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40"/>
 </div>
 
           
