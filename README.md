@@ -1,5 +1,5 @@
 ## 👨‍💻 About me
-Estudante de tecnologia, desenvolvedor de soluções escaláveis, robustas e seguras. Aplicando conceitos para construir soluções escaláveis, robustas e seguras. Conhecimento em **JavaScript**|**TypeScript**, e **HTML**|**CSS**|**BootStrap** para frontend.
+Estudante de tecnologia. Aplicando conceitos para construir soluções escaláveis, robustas e seguras. Conhecimento em construção de aplicações backend **JavaScript**|**TypeScript**, e **HTML**|**CSS**|**BootStrap** para frontend.
 
 ---
 ### :computer: Carrer
