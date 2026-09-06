@@ -1,6 +1,6 @@
 ## Gabriel Gallan 👨‍💻
 
-> Full-stack Engineer
+> Full Stack Engineer
 
 Full Stack Developer focused on the **Node.js ecosystem**, building modern, scalable, and maintainable web applications.
 
